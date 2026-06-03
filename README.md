@@ -138,6 +138,7 @@ Example:
 * Real-Time Resume Screening
 
 ---
+Note: The original resume dataset is large and has not been included in this repository. It can be downloaded from the Kaggle Resume Dataset source.
 
 ## Internship Task
 
